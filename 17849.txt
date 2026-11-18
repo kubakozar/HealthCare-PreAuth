@@ -1,0 +1,52 @@
+HEALTH INSURANCE POLICY SCHEDULE
+Insurer: Pinecrest Health Group
+Policy Type: Senior Citizen Health Insurance (POS Plan)
+Policy Name: Pinecrest Golden Years Secure
+
+POLICY HOLDER DETAILS
+Name: Margaret Thompson
+Date of Birth: 09-Jul-1957
+Gender: Female
+Policyholder ID: PHG/SNR/US-2290764
+SSN (Masked): XXX-XX-1826
+Address: 96 Willow Creek Road, Portland, OR 97205, USA
+Mobile: +1-503-XXX-XXXX
+Email: margaret.thompson@email.com
+
+POLICY DETAILS
+Policy Number: PHG-OR-2026-229076412
+Policy Period: 01-Jan-2026 to 31-Dec-2026
+Annual Deductible: $1,500 (Individual)
+Out-of-Pocket Maximum: $6,000
+Waiting Period: 30 days (general illness), 24 months (pre-existing
+conditions), 48 months (joint replacement)
+Policy Status: Active
+
+PREMIUM DETAILS
+Monthly Premium: $620.00
+Annual Premium: $7,440.00
+Employer Contribution: $0.00
+Employee Annual Cost: $7,440.00
+
+COVERAGE
+In-network: 85% after deductible, Out-of-network: 65% after
+deductible
+Illness coverage: Hospitalization, Cardiac care, Cataract surgery,
+Joint replacement, Diabetes management, Cancer treatment, Home
+nursing care
+Preventive care (100% covered), Emergency services, Prescription drugs
+(3-tier copay), Rehabilitation services
+
+COPAYMENTS & COINSURANCE
+Primary Care Visit: $15 copay
+Specialist Visit: $40 copay
+Emergency Room: $300 copay (waived if admitted)
+Urgent Care: $55 copay
+Generic Drugs: $5 copay, Brand Drugs: $30 copay
+
+BENEFICIARY
+David Thompson (Son)
+
+DECLARATION
+This is a system-generated sample policy document for demonstration
+purposes only.

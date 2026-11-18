@@ -1,0 +1,52 @@
+HEALTH INSURANCE POLICY SCHEDULE
+Insurer: Lakeshore Mutual Insurance
+Policy Type: Family Floater Health Insurance (HMO Plan)
+Policy Name: Lakeshore Family Care Gold
+
+POLICY HOLDER DETAILS
+Name: Robert Nguyen
+Date of Birth: 22-Nov-1978
+Gender: Male
+Policyholder ID: LMI/FAM/US-5528103
+SSN (Masked): XXX-XX-7391
+Address: 4510 Lakeview Drive, Chicago, IL 60614, USA
+Mobile: +1-312-XXX-XXXX
+Email: robert.nguyen@email.com
+
+POLICY DETAILS
+Policy Number: LMI-IL-2026-557391045
+Policy Period: 01-Apr-2026 to 31-Mar-2027
+Annual Deductible: $4,000 (Family)
+Out-of-Pocket Maximum: $12,000
+Waiting Period: 30 days (general illness), 24 months (pre-existing
+conditions), 12 months (maternity)
+Policy Status: Active
+
+PREMIUM DETAILS
+Monthly Premium: $890.00
+Annual Premium: $10,680.00
+Employer Contribution: $6,500.00
+Employee Annual Cost: $4,180.00
+
+COVERAGE
+In-network only: 90% after deductible, Out-of-network: Emergency
+only
+Illness coverage: Hospitalization, Surgery, Hypertension, Asthma,
+Pediatric care, Cancer treatment (pre-existing conditions covered
+after waiting period)
+Preventive care (100% covered), Emergency services, Prescription drugs
+(3-tier copay), Maternity and newborn care
+
+COPAYMENTS & COINSURANCE
+Primary Care Visit: $20 copay
+Specialist Visit: $45 copay
+Emergency Room: $250 copay (waived if admitted)
+Urgent Care: $60 copay
+Generic Drugs: $8 copay, Brand Drugs: $35 copay
+
+BENEFICIARY
+Linda Nguyen (Spouse)
+
+DECLARATION
+This is a system-generated sample policy document for demonstration
+purposes only.

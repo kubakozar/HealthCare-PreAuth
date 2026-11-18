@@ -1,0 +1,52 @@
+HEALTH INSURANCE POLICY SCHEDULE
+Insurer: Evergreen Care Insurance
+Policy Type: Individual Health Insurance (HDHP Plan)
+Policy Name: Evergreen Saver HSA Plan
+
+POLICY HOLDER DETAILS
+Name: Daniel Brooks
+Date of Birth: 05-Dec-1982
+Gender: Male
+Policyholder ID: ECI/IND/US-4418675
+SSN (Masked): XXX-XX-6648
+Address: 340 Evergreen Lane, Seattle, WA 98101, USA
+Mobile: +1-206-XXX-XXXX
+Email: daniel.brooks@email.com
+
+POLICY DETAILS
+Policy Number: ECI-WA-2024-441867250
+Policy Period: 01-Jan-2024 to 31-Dec-2024
+Annual Deductible: $5,000 (Individual)
+Out-of-Pocket Maximum: $8,500
+Waiting Period: 30 days (general illness), 12 months (pre-existing
+conditions)
+Policy Status: Lapsed (non-payment of premium)
+
+PREMIUM DETAILS
+Monthly Premium: $330.00
+Annual Premium: $3,960.00
+Employer Contribution: $1,200.00
+Employee Annual Cost: $2,760.00
+
+COVERAGE
+In-network: 100% after deductible, Out-of-network: 70% after
+deductible
+Illness coverage: Hospitalization, Surgery, Cardiac care, Kidney
+disorders, Mental health services (pre-existing conditions covered
+after waiting period)
+Preventive care (100% covered), Emergency services, Prescription drugs
+(after deductible)
+
+COPAYMENTS & COINSURANCE
+Primary Care Visit: Full cost until deductible met
+Specialist Visit: Full cost until deductible met
+Emergency Room: 20% coinsurance after deductible
+Urgent Care: 20% coinsurance after deductible
+Generic Drugs: $15 copay, Brand Drugs: $55 copay (after deductible)
+
+BENEFICIARY
+Hannah Brooks (Daughter)
+
+DECLARATION
+This is a system-generated sample policy document for demonstration
+purposes only.

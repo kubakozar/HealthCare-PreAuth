@@ -1,0 +1,52 @@
+HEALTH INSURANCE POLICY SCHEDULE
+Insurer: Harborview Health Partners
+Policy Type: Family Floater Health Insurance (PPO Plan)
+Policy Name: Harborview Family Complete
+
+POLICY HOLDER DETAILS
+Name: Aisha Patel
+Date of Birth: 27-Sep-1985
+Gender: Female
+Policyholder ID: HHP/FAM/US-6603851
+SSN (Masked): XXX-XX-3267
+Address: 58 Harbor Street, Boston, MA 02110, USA
+Mobile: +1-617-XXX-XXXX
+Email: aisha.patel@email.com
+
+POLICY DETAILS
+Policy Number: HHP-MA-2026-660385178
+Policy Period: 01-Mar-2026 to 28-Feb-2027
+Annual Deductible: $3,000 (Family)
+Out-of-Pocket Maximum: $10,000
+Waiting Period: 30 days (general illness), 12 months (pre-existing
+conditions), 9 months (maternity)
+Policy Status: Active
+
+PREMIUM DETAILS
+Monthly Premium: $760.00
+Annual Premium: $9,120.00
+Employer Contribution: $5,400.00
+Employee Annual Cost: $3,720.00
+
+COVERAGE
+In-network: 85% after deductible, Out-of-network: 65% after
+deductible
+Illness coverage: Hospitalization, Surgery, Thyroid disorders,
+Allergy and asthma care, Pediatric care, Cancer treatment (pre-existing
+conditions covered after waiting period)
+Preventive care (100% covered), Emergency services, Prescription drugs
+(3-tier copay), Maternity and newborn care, Mental health services
+
+COPAYMENTS & COINSURANCE
+Primary Care Visit: $25 copay
+Specialist Visit: $50 copay
+Emergency Room: $325 copay (waived if admitted)
+Urgent Care: $70 copay
+Generic Drugs: $10 copay, Brand Drugs: $45 copay
+
+BENEFICIARY
+Raj Patel (Spouse)
+
+DECLARATION
+This is a system-generated sample policy document for demonstration
+purposes only.

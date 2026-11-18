@@ -1,0 +1,52 @@
+HEALTH INSURANCE POLICY SCHEDULE
+Insurer: Summit Shield Insurance
+Policy Type: Individual Health Insurance (EPO Plan)
+Policy Name: Summit Shield Essential
+
+POLICY HOLDER DETAILS
+Name: Carlos Ramirez
+Date of Birth: 14-Feb-1995
+Gender: Male
+Policyholder ID: SSI/IND/US-7741290
+SSN (Masked): XXX-XX-9054
+Address: 2218 Sunset Boulevard, Phoenix, AZ 85004, USA
+Mobile: +1-602-XXX-XXXX
+Email: carlos.ramirez@email.com
+
+POLICY DETAILS
+Policy Number: SSI-AZ-2025-774129033
+Policy Period: 01-Jul-2025 to 30-Jun-2026
+Annual Deductible: $3,500 (Individual)
+Out-of-Pocket Maximum: $9,000
+Waiting Period: 30 days (general illness), 12 months (pre-existing
+conditions)
+Policy Status: Expiring Soon (renewal notice issued)
+
+PREMIUM DETAILS
+Monthly Premium: $295.00
+Annual Premium: $3,540.00
+Employer Contribution: $1,800.00
+Employee Annual Cost: $1,740.00
+
+COVERAGE
+In-network only: 75% after deductible, Out-of-network: Emergency
+only
+Illness coverage: Hospitalization, Surgery, Infectious diseases,
+Orthopedic injury care, Mental health services (pre-existing
+conditions covered after waiting period)
+Preventive care (100% covered), Emergency services, Prescription drugs
+(2-tier copay)
+
+COPAYMENTS & COINSURANCE
+Primary Care Visit: $30 copay
+Specialist Visit: $60 copay
+Emergency Room: $400 copay (waived if admitted)
+Urgent Care: $80 copay
+Generic Drugs: $12 copay, Brand Drugs: $50 copay
+
+BENEFICIARY
+Sofia Ramirez (Mother)
+
+DECLARATION
+This is a system-generated sample policy document for demonstration
+purposes only.

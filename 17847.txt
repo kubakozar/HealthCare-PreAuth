@@ -1,0 +1,52 @@
+HEALTH INSURANCE POLICY SCHEDULE
+Insurer: Northbridge Health Assurance
+Policy Type: Individual Health Insurance (PPO Plan)
+Policy Name: Northbridge Select Plus
+
+POLICY HOLDER DETAILS
+Name: Emily Carter
+Date of Birth: 03-Mar-1990
+Gender: Female
+Policyholder ID: NHA/IND/US-3015847
+SSN (Masked): XXX-XX-4412
+Address: 782 Maple Avenue, Denver, CO 80203, USA
+Mobile: +1-303-XXX-XXXX
+Email: emily.carter@email.com
+
+POLICY DETAILS
+Policy Number: NHA-CO-2026-104587221
+Policy Period: 01-Jan-2026 to 31-Dec-2026
+Annual Deductible: $2,000 (Individual)
+Out-of-Pocket Maximum: $7,500
+Waiting Period: 30 days (general illness), 12 months (pre-existing
+conditions), 10 months (maternity)
+Policy Status: Active
+
+PREMIUM DETAILS
+Monthly Premium: $410.00
+Annual Premium: $4,920.00
+Employer Contribution: $3,000.00
+Employee Annual Cost: $1,920.00
+
+COVERAGE
+In-network: 80% after deductible, Out-of-network: 60% after
+deductible
+Illness coverage: Hospitalization, Surgery, Cancer treatment, Diabetes
+management, Cardiac care (pre-existing conditions covered after
+waiting period)
+Preventive care (100% covered), Emergency services, Prescription drugs
+(3-tier copay)
+
+COPAYMENTS & COINSURANCE
+Primary Care Visit: $25 copay
+Specialist Visit: $50 copay
+Emergency Room: $300 copay (waived if admitted)
+Urgent Care: $70 copay
+Generic Drugs: $10 copay, Brand Drugs: $40 copay
+
+BENEFICIARY
+Michael Carter (Spouse)
+
+DECLARATION
+This is a system-generated sample policy document for demonstration
+purposes only.
